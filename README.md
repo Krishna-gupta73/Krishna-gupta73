@@ -69,8 +69,6 @@
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://github.com/Krishna-gupta73" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
