@@ -71,7 +71,9 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/krishna-gupta-758616330?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 GitHub: https://github.com/Krishna-gupta73
-- 📧 Email: guptakrishna7351@gmail.com
+- 🔗 LeetCode: https://leetcode.com/u/krishna_gupta07
+- 📧 Email:
+guptakrishna7351@gmail.com
 
 ---
 
