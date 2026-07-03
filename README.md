@@ -42,12 +42,9 @@
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-gupta73&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-gupta73&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-gupta73&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Krishna-gupta73&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-gupta73&layout=compact&theme=github_dark)
 ---
 
 ## 🎯 Current Goals
