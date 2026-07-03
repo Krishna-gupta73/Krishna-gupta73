@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <a href="https://leetcode.com/u/Krishna-gupta73/" target="_blank">
+  <a href="https://leetcode.com/u/krishna_gupta73/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
@@ -85,11 +85,6 @@
   <a href="mailto:guptakrishna7351@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krishna-gupta73&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <h3 align="center">⭐ "Code. Learn. Build. Repeat." ⭐</h3>
