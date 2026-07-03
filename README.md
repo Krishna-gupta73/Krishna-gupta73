@@ -21,6 +21,7 @@
 
 ### 👨‍💻 Languages
 - ☕ Java
+- 💻 C (programming)
 - 🌐 HTML5
 - 🎨 CSS3
 - 🟨 JavaScript *(Learning)*
