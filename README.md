@@ -69,12 +69,25 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/krishna-gupta-758616330?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 💻 GitHub: https://github.com/Krishna-gupta73
-- 🔗 LeetCode: https://leetcode.com/u/krishna_gupta73
-- 📧 Email:
-guptakrishna7351@gmail.com
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://github.com/Krishna-gupta73" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Krishna-gupta73/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/krishna-gupta-758616330" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:guptakrishna7351@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 ---
 
 <p align="center">
